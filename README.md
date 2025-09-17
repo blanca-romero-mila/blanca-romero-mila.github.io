@@ -50,11 +50,6 @@ I'm a Biomedical Engineering Ph.D. candidate at the [University of California, I
 - Supported clinical engineers with equipment management in Intensive Care Units
 - Assisted the Neuromodulation Unit with navigated transcranial magnetic stimulation for motor cortex mapping
 
-### Engineer Intern | BCN3D Technologies
-*Jun 2019 - Sept 2019*
-- Collaborated with a team of engineers to develop a novel viscous lithography printer for 3D surgical models and prosthetics
-- Conducted comprehensive patent research to assess existing technologies and ensure the novelty of the design
-
 ## 🚀 PROJECTS & CERTIFICATES
 
 ### STEM Business Concepts for Scientists Certificate
@@ -73,23 +68,24 @@ I'm a Biomedical Engineering Ph.D. candidate at the [University of California, I
 - Integrated LLM (Palmyra-Med-70b-32k) with NVIDIA architecture to interpret EEG findings, recommend follow-up tests, and provide biological explanations
 
 ## 🏆 HONORS & AWARDS
-
-2023-2024: [Graduate Fellow, Balsells Fellowship, Catalonia-California Project](https://balsells.eng.uci.edu/graduate-balsells-fellows-2022/)
-2023: [Top 3 finalist, Final Degree Project Award, Spanish Society of Biomedical Engineering](https://www.ub.edu/portal/web/medicina-ciencies-salut/detall/-/detall/blanca-romero-graduada-en-enginyeria-biomedica-guanya-el-3er-premi-fenin-seib-del-concurs-de-tfg-s)
-2023: [Research Day Award, Children's Hospital of Orange County](https://care.choc.org/three-research-posters-on-biomarkers-and-treatment-of-infantile-spasms-to-be-presented-at-worlds-largest-epilepsy-conference/)
-2022: [Undergraduate Fellow, Balsells Fellowship, Catalonia-California Project](https://balsells.eng.uci.edu/mobility-program-fellows-2021-2022/)
-
-## 👥 LEADERSHIP EXPERIENCE
-
-### Graduate Association of Biomedical Engineering Students, UCI - President
-*Jun 2024 - Present*
-- Led monthly meetings to track project progress and advance the mission of supporting 120+ Biomedical Engineering graduate students
-- Acted as a liaison between students, faculty, and industry, organizing social and professional events
-
-### Graduate International Connection, UCI - Social Media Coordinator
-*Jan 2024 - Dec 2024*
-- Managed communications to ensure all key information reached 300+ incoming international graduate students
-
+<table cellpadding="0" cellspacing="0" style="border: 0; width: 100%;">
+<tr>
+<td style="border: 0; width: 200px; vertical-align: top; padding: 0 20px 15px 0;"><strong>2023-2024</strong></td>
+<td style="border: 0; vertical-align: top; padding: 0 0 15px 0;"><a href="https://balsells.eng.uci.edu/graduate-balsells-fellows-2022/">Graduate Fellow, Balsells Fellowship, Catalonia-California Project</a></td>
+</tr>
+<tr>
+<td style="border: 0; width: 200px; vertical-align: top; padding: 0 20px 15px 0;"><strong>2023</strong></td>
+<td style="border: 0; vertical-align: top; padding: 0 0 15px 0;"><a href="https://www.ub.edu/portal/web/medicina-ciencies-salut/detall/-/detall/blanca-romero-graduada-en-enginyeria-biomedica-guanya-el-3er-premi-fenin-seib-del-concurs-de-tfg-s">Top 3 finalist, Final Degree Project Award, Spanish Society of Biomedical Engineering</a></td>
+</tr>
+<tr>
+<td style="border: 0; width: 200px; vertical-align: top; padding: 0 20px 15px 0;"><strong>2023</strong></td>
+<td style="border: 0; vertical-align: top; padding: 0 0 15px 0;"><a href="https://care.choc.org/three-research-posters-on-biomarkers-and-treatment-of-infantile-spasms-to-be-presented-at-worlds-largest-epilepsy-conference/">Research Day Award, Children's Hospital of Orange County</a></td>
+</tr>
+<tr>
+<td style="border: 0; width: 200px; vertical-align: top; padding: 0 20px 15px 0;"><strong>2022</strong></td>
+<td style="border: 0; vertical-align: top; padding: 0 0 15px 0;"><a href="https://balsells.eng.uci.edu/mobility-program-fellows-2021-2022/">Undergraduate Fellow, Balsells Fellowship, Catalonia-California Project</a></td>
+</tr>
+</table>
 
 ## 🛠️ TECHNICAL SKILLS
 
