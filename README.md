@@ -49,19 +49,19 @@ I'm a Biomedical Engineering Ph.D. candidate at the [University of California, I
 ## 🏆 HONORS & AWARDS
 <table cellpadding="0" cellspacing="0" style="border: 0; width: 100%;">
 <tr>
-<td style="border: 0; width: 200px; vertical-align: top; padding: 0 20px 15px 0;"><strong>2023-2024</strong></td>
+<td style="border: 0; width: 200px; vertical-align: top; padding: 0 20px 15px 0; text-align: center;"><strong>2023-2024</strong></td>
 <td style="border: 0; vertical-align: top; padding: 0 0 15px 0;"><a href="https://balsells.eng.uci.edu/graduate-balsells-fellows-2022/">Graduate Fellow, Balsells Fellowship, Catalonia-California Project</a></td>
 </tr>
 <tr>
-<td style="border: 0; width: 200px; vertical-align: top; padding: 0 20px 15px 0;"><strong>2023</strong></td>
+<td style="border: 0; width: 200px; vertical-align: top; padding: 0 20px 15px 0; text-align: center;"><strong>2023</strong></td>
 <td style="border: 0; vertical-align: top; padding: 0 0 15px 0;"><a href="https://www.ub.edu/portal/web/medicina-ciencies-salut/detall/-/detall/blanca-romero-graduada-en-enginyeria-biomedica-guanya-el-3er-premi-fenin-seib-del-concurs-de-tfg-s">Top 3 finalist, Final Degree Project Award, Spanish Society of Biomedical Engineering</a></td>
 </tr>
 <tr>
-<td style="border: 0; width: 200px; vertical-align: top; padding: 0 20px 15px 0;"><strong>2023</strong></td>
+<td style="border: 0; width: 200px; vertical-align: top; padding: 0 20px 15px 0; text-align: center;"><strong>2023</strong></td>
 <td style="border: 0; vertical-align: top; padding: 0 0 15px 0;"><a href="https://care.choc.org/three-research-posters-on-biomarkers-and-treatment-of-infantile-spasms-to-be-presented-at-worlds-largest-epilepsy-conference/">Research Day Award, Children's Hospital of Orange County</a></td>
 </tr>
 <tr>
-<td style="border: 0; width: 200px; vertical-align: top; padding: 0 20px 15px 0;"><strong>2022</strong></td>
+<td style="border: 0; width: 200px; vertical-align: top; padding: 0 20px 15px 0; text-align: center;"><strong>2022</strong></td>
 <td style="border: 0; vertical-align: top; padding: 0 0 15px 0;"><a href="https://balsells.eng.uci.edu/mobility-program-fellows-2021-2022/">Undergraduate Fellow, Balsells Fellowship, Catalonia-California Project</a></td>
 </tr>
 </table>
