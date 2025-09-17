@@ -72,9 +72,11 @@ I'm a Biomedical Engineering Ph.D. candidate at the [University of California, I
 - Designed an innovative platform using scalp EEG biomarkers and machine learning to enhance Alzheimer's diagnosis accuracy and efficiency
 - Integrated LLM (Palmyra-Med-70b-32k) with NVIDIA architecture to interpret EEG findings, recommend follow-up tests, and provide biological explanations
 
-## HONORS AND AWARDS
-
-
+## 🏆 HONORS AND AWARDS
+2023-2024: [Graduate Fellow, Balsells Fellowship, Catalonia-California Project](https://balsells.eng.uci.edu/graduate-balsells-fellows-2022/)
+2023: [Top 3 finalist, Final Degree Project Award, Spanish Society of Biomedical Engineering](https://www.ub.edu/portal/web/medicina-ciencies-salut/detall/-/detall/blanca-romero-graduada-en-enginyeria-biomedica-guanya-el-3er-premi-fenin-seib-del-concurs-de-tfg-s)
+2023: [Research Day Award, Children's Hospital of Orange County](https://care.choc.org/three-research-posters-on-biomarkers-and-treatment-of-infantile-spasms-to-be-presented-at-worlds-largest-epilepsy-conference/)
+2022: [Undergraduate Fellow, Balsells Fellowship, Catalonia-California Project](https://balsells.eng.uci.edu/mobility-program-fellows-2021-2022/)
 ## 👥 LEADERSHIP EXPERIENCE
 
 ### Graduate Association of Biomedical Engineering Students, UCI - President
