@@ -17,7 +17,7 @@ I'm a Biomedical Engineering Ph.D. candidate at the [University of California, I
 <tr>
 <td style="border: 0; width: 200px; vertical-align: top; padding: 0 20px 15px 0;"><strong>Feb 2022 - Jun 2022</strong></td>
 <td style="border: 0; vertical-align: top; padding: 0 0 15px 0;"><strong>University of California Irvine - Irvine, CA</strong><br>
-<strong>Visiting Scholar</strong></br>
+<strong>Visiting Scholar</strong>, Laboratory of Computational and Translational Neuroscience</td>
 </tr>
 <tr>
 <td style="border: 0; width: 200px; vertical-align: top; padding: 0 20px 15px 0;"><strong>Sept 2018 - Jun 2022</strong></td>
