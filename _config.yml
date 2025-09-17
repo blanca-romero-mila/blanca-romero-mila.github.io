@@ -1,4 +1,12 @@
 title: Blanca Romero Milà
 # logo: /assets/img/headshot_Blanca.png
 # description
-theme: jekyll-theme-minimal
+remote_theme: jekyll-theme-minimal
+
+# Author info
+author:
+  name: "Blanca Romero Milà"
+  # avatar: "/assets/img/headshot_Blanca.png"
+  bio: "Ph.D. Candidate in Biomedical Engineering"
+  email: "blancr1@uci.edu"
+  linkedin: "blanca-romero-mila"
