@@ -2,28 +2,30 @@
 
 📧 blancr1@uci.edu | 🔗 [LinkedIn](https://www.linkedin.com/in/blanca-romero-mila) | 🎓 [Google Scholar](https://scholar.google.com/citations?user=S2IpQDgAAAAJ&hl=en&oi=ao)
 
-I'm a Biomedical Engineering Ph.D. candidate at the [University of California, Irvine](https://engineering.uci.edu/dept/bme), under the guidance of [Dr. Beth Lopour](https://engineering.uci.edu/users/beth-lopour) at the [Laboratory of Computational and Translational Neuroscience](https://lopour.eng.uci.edu/). My current research focuses on using computational techniques to study information processing in the human brain and neurological disorders such as epilepsy. Specifically, I am working on **time-frequency machine learning methods** to more precisely **delineate brain regions generating seizure activity**. I have also worked with [Dr. William La Cava](https://cavalab.org/) during an internship at the [Computational Health Informatics Program, Boston Children's Hospital, Harvard Medical School](https://www.chip.org/), where we analyzed implicit bias in emergency department triage scoring.
+I'm a Biomedical Engineering Ph.D. candidate at the [University of California, Irvine](https://engineering.uci.edu/dept/bme), under the guidance of [Dr. Beth Lopour](https://engineering.uci.edu/users/beth-lopour) at the [Laboratory of Computational and Translational Neuroscience](https://lopour.eng.uci.edu/). My current research focuses on using computational techniques to study information processing in the human brain and neurological disorders such as epilepsy. Specifically, I am working on **time-frequency machine learning methods** to more precisely **delineate brain regions generating seizure activity**. I have also worked with [Dr. William La Cava](https://cavalab.org/) during an internship at the [Computational Health Informatics Program, Boston Children's Hospital, Harvard Medical School](https://www.chip.org/), where we analyzed **implicit bias in emergency department triage scoring**.
 
 ## 🎓 EDUCATION
 
-### University of California Irvine - Irvine, CA
-**Ph.D. in Biomedical Engineering** | *Sept 2022 - Aug 2026 (Present)*
-- **GPA:** 3.99
-- **Relevant Coursework:** Analysis of Neural Time Series, Machine Learning in Data Science, Clinical Engineering
-- Graduate Fellow, Balsells Fellowship, Catalonia-California Project
-
-### University of California Irvine - Irvine, CA
-**Final Degree Project** | *Feb 2022 - Jun 2022*
-- **High Honors**
-- Undergraduate Fellow, Balsells Fellowship, Catalonia-California Project
-- Top 3 finalist, Final Degree Project Award, Spanish Society of Biomedical Engineering
-- Research Day Award, Children's Hospital of Orange County
-
-### Universitat de Barcelona - Barcelona, Spain
-**Bachelor of Science, Biomedical Engineering** | *Sept 2018 - Jun 2022*
-- **Relevant Coursework:** Biomedical Instrumentation and Signal Processing, Biomechanics, Bioinformatics and Data Analysis
-- High Honors in Clinical Engineering and Innovation and Creativity in Organizations
-
+<table cellpadding="0" cellspacing="0" style="border: 0; width: 100%;">
+<tr>
+<td style="border: 0; width: 200px; vertical-align: top; padding: 0 20px 15px 0;"><strong>Sept 2022 - Dec 2026<br>(Present)</strong></td>
+<td style="border: 0; vertical-align: top; padding: 0 0 15px 0;"><strong>University of California Irvine - Irvine, CA</strong><br>
+<strong>Ph.D. in Biomedical Engineering</strong><br>
+• GPA: 3.99<br>
+• Relevant Coursework: Analysis of Neural Time Series, Machine Learning in Data Science, Clinical Engineering</td>
+</tr>
+<tr>
+<td style="border: 0; width: 200px; vertical-align: top; padding: 0 20px 15px 0;"><strong>Feb 2022 - Jun 2022</strong></td>
+<td style="border: 0; vertical-align: top; padding: 0 0 15px 0;"><strong>University of California Irvine - Irvine, CA</strong><br>
+<strong>Visiting Scholar</strong></td>
+</tr>
+<tr>
+<td style="border: 0; width: 200px; vertical-align: top; padding: 0 20px 15px 0;"><strong>Sept 2018 - Jun 2022</strong></td>
+<td style="border: 0; vertical-align: top; padding: 0 0 15px 0;"><strong>Universitat de Barcelona - Barcelona, Spain</strong><br>
+<strong>Bachelor of Science, Biomedical Engineering</strong><br>
+• Relevant Coursework: Biomedical Instrumentation and Signal Processing, Biomechanics, Bioinformatics and Data Analysis</td>
+</tr>
+</table>
 
 ## 💼 EXPERIENCE
 
@@ -96,3 +98,9 @@ I'm a Biomedical Engineering Ph.D. candidate at the [University of California, I
 - **Programming & Data Analysis:** MATLAB, Python, R, Machine Learning, Signal Processing
 - **Clinical Software:** RED Cap, PowerChart, Persyst, CURRY
 - **Business & Project Management:** Business Model Canvas, SWOT Analysis
+
+## honors and awards
+- Graduate Fellow, Balsells Fellowship, Catalonia-California Project
+- Undergraduate Fellow, Balsells Fellowship, Catalonia-California Project
+- Top 3 finalist, Final Degree Project Award, Spanish Society of Biomedical Engineering
+- Research Day Award, Children's Hospital of Orange County
