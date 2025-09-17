@@ -1,4 +1,4 @@
-# Ph.D. Candidate in Biomedical Engineering
+# Ph.D. Candidate in<br>Biomedical Engineering
 
 📧 blancr1@uci.edu | 🔗 [LinkedIn](https://www.linkedin.com/in/blanca-romero-mila) | 📚 [Google Scholar](https://scholar.google.com/citations?user=S2IpQDgAAAAJ&hl=en&oi=ao)
 
