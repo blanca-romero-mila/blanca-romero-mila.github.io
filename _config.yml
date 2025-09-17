@@ -1,7 +1,7 @@
 title: Blanca Romero Milà
 # logo: /assets/img/headshot_Blanca.png
 # description
-remote_theme: jekyll-theme-minimal
+theme: jekyll-theme-minima
 
 # Author info
 author:
