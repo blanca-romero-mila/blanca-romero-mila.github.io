@@ -55,7 +55,7 @@ I'm a Biomedical Engineering Ph.D. candidate at the [University of California, I
 - Collaborated with a team of engineers to develop a novel viscous lithography printer for 3D surgical models and prosthetics
 - Conducted comprehensive patent research to assess existing technologies and ensure the novelty of the design
 
-## 🚀 PROJECTS AND CERTIFICATES
+## 🚀 PROJECTS & CERTIFICATES
 
 ### STEM Business Concepts for Scientists Certificate
 *University of California Irvine, Irvine, CA | Jan 2025 - April 2025*
@@ -72,11 +72,13 @@ I'm a Biomedical Engineering Ph.D. candidate at the [University of California, I
 - Designed an innovative platform using scalp EEG biomarkers and machine learning to enhance Alzheimer's diagnosis accuracy and efficiency
 - Integrated LLM (Palmyra-Med-70b-32k) with NVIDIA architecture to interpret EEG findings, recommend follow-up tests, and provide biological explanations
 
-## 🏆 HONORS AND AWARDS
+## 🏆 HONORS & AWARDS
+
 2023-2024: [Graduate Fellow, Balsells Fellowship, Catalonia-California Project](https://balsells.eng.uci.edu/graduate-balsells-fellows-2022/)
 2023: [Top 3 finalist, Final Degree Project Award, Spanish Society of Biomedical Engineering](https://www.ub.edu/portal/web/medicina-ciencies-salut/detall/-/detall/blanca-romero-graduada-en-enginyeria-biomedica-guanya-el-3er-premi-fenin-seib-del-concurs-de-tfg-s)
 2023: [Research Day Award, Children's Hospital of Orange County](https://care.choc.org/three-research-posters-on-biomarkers-and-treatment-of-infantile-spasms-to-be-presented-at-worlds-largest-epilepsy-conference/)
 2022: [Undergraduate Fellow, Balsells Fellowship, Catalonia-California Project](https://balsells.eng.uci.edu/mobility-program-fellows-2021-2022/)
+
 ## 👥 LEADERSHIP EXPERIENCE
 
 ### Graduate Association of Biomedical Engineering Students, UCI - President
@@ -95,9 +97,3 @@ I'm a Biomedical Engineering Ph.D. candidate at the [University of California, I
 - **Programming & Data Analysis:** MATLAB, Python, R, Machine Learning, Signal Processing
 - **Clinical Software:** RED Cap, PowerChart, Persyst, CURRY
 - **Business & Project Management:** Business Model Canvas, SWOT Analysis
-
-## honors and awards
-- Graduate Fellow, Balsells Fellowship, Catalonia-California Project
-- Undergraduate Fellow, Balsells Fellowship, Catalonia-California Project
-- Top 3 finalist, Final Degree Project Award, Spanish Society of Biomedical Engineering
-- Research Day Award, Children's Hospital of Orange County
