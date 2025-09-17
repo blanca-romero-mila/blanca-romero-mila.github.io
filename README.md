@@ -1,5 +1,7 @@
 # Biomedical Engineer
 # BLANCA ROMERO MILÀ
+![Profile Photo](headshot_Blanca.jpg)
+*Ph.D. Candidate in Biomedical Engineering at UC Irvine*
 
 📧 blancr1@uci.edu | 🔗 [LinkedIn](https://www.linkedin.com/in/blanca-romero-mila)
 
