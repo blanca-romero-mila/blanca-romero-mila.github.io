@@ -96,6 +96,6 @@ I'm a Biomedical Engineering Ph.D. candidate at the [University of California, I
 
 **Romero Milà, B.**, Sindhu, K. R., Mytinger, J. R., Shrey, D. W., & Lopour, B. A. (2022). **EEG biomarkers for the diagnosis and treatment of infantile spasms. Frontiers in Neurology**, 13. https://doi.org/10.3389/fneur.2022.960454
 
-**Romero Milà, B.**, Liu V. B., Smith R. J., Hu D. K., Benneian N. A., Hussain S. A., Steenari M., Phillips D., Adams D., Skora C., Lopour B. A., Shrey D. W. (2025), **EEG functional connectivity as a marker of evolution from infantile epileptic spasms syndrome to Lennox-Gastaut syndrome**, Epilepsia, doi: https://doi.org/10.1101/2025.04.30.650531
+**Romero Milà B**, Liu VB, Smith RJ, Hu DK, Benneian NA, Hussain SA, et al. **EEG functional connectivity as a marker of evolution from infantile epileptic spasms syndrome to Lennox–Gastaut syndrome**. Epilepsia. 2025; 00: 1–13. https://doi.org/10.1111/epi.70003
 
 
