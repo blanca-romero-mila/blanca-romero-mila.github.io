@@ -98,8 +98,12 @@ I have also worked with [Dr. William La Cava](https://cavalab.org/) during an in
 
 ## 📚 PUBLICATIONS
 
-**Romero Milà, B.**, Sindhu, K. R., Mytinger, J. R., Shrey, D. W., & Lopour, B. A. (2022). **EEG biomarkers for the diagnosis and treatment of infantile spasms. Frontiers in Neurology**, 13. https://doi.org/10.3389/fneur.2022.960454
+**Romero Milà B**, Coggan H, Fine AM, Barak-Corren Y, Reis BY, Aysola J, Chaudhari P, La Cava WG, **The Benefit of the Doubt Phenomenon in Emergency Triage Assignment Disparities**, medRxiv 2026.02.12.26346184; doi: https://doi.org/10.64898/2026.02.12.26346184
 
 **Romero Milà B**, Liu VB, Smith RJ, Hu DK, Benneian NA, Hussain SA, et al. **EEG functional connectivity as a marker of evolution from infantile epileptic spasms syndrome to Lennox–Gastaut syndrome**. Epilepsia. 2025; 00: 1–13. https://doi.org/10.1111/epi.70003
+
+**Romero Milà, B.**, Sindhu, K. R., Mytinger, J. R., Shrey, D. W., & Lopour, B. A. (2022). **EEG biomarkers for the diagnosis and treatment of infantile spasms. Frontiers in Neurology**, 13. https://doi.org/10.3389/fneur.2022.960454
+
+
 
 
