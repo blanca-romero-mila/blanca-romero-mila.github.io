@@ -38,13 +38,13 @@ I have also worked with [Dr. William La Cava](https://cavalab.org/) during an in
 - **High-Frequency Oscillations as Potential EEG Biomarkers for Refractory Epilepsy:** Conduct time-frequency analysis to identify iEEG biomarkers of seizure-generating tissue using advanced statistical techniques in MATLAB
 - **EEG-Based Functional Connectivity in Infantile Spasms to Lennox-Gastaut Syndrome:** Analyzed EEG data from 15 subjects, revealing that lower network connectivity at LGS diagnosis predicts better treatment outcomes
 
-### [Associate Clinical Researcher | Children's Hospital of Orange County | Jul 2023 - Present](https://choc.org/neuroscience/)
-- Recorded intracranial EEG data and built a dataset of 70+ epilepsy patients to enhance seizure onset localization and optimize surgical outcomes
-- Participated in multidisciplinary surgical planning meetings and produced detailed technical reports to improve clinical decision-making and medical team communication
-
 ### [Ph.D. Intern | Boston Children's Hospital & Harvard Medical School | June 2025 - Sept 2025](https://www.chip.org/internship/chip-ai-internship)
 - Analyzed data from ~700,000 emergency department visits to investigate implicit bias in Emergency Severity Index (ESI) triage scoring and clinical decision-making
 - Supervisor: William La Cava, PhD
+
+### [Associate Clinical Researcher | Children's Hospital of Orange County | Jul 2023 - Present](https://choc.org/neuroscience/)
+- Recorded intracranial EEG data and built a dataset of 70+ epilepsy patients to enhance seizure onset localization and optimize surgical outcomes
+- Participated in multidisciplinary surgical planning meetings and produced detailed technical reports to improve clinical decision-making and medical team communication
 
 ### [Clinical Engineer Intern | Hospital Maternoinfantil Sant Joan de Deu | Jun 2021 - Aug 2021](https://www.sjdhospitalbarcelona.org/en)
 - Supported clinical engineers with equipment management in Intensive Care Units
