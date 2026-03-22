@@ -2,7 +2,9 @@
 
 📧 blancr1@uci.edu | 🔗 [LinkedIn](https://www.linkedin.com/in/blanca-romero-mila) | 📚 [Google Scholar](https://scholar.google.com/citations?user=S2IpQDgAAAAJ&hl=en&oi=ao)
 
-I'm a Biomedical Engineering Ph.D. candidate at the [University of California, Irvine](https://engineering.uci.edu/dept/bme), under the guidance of [Dr. Beth Lopour](https://engineering.uci.edu/users/beth-lopour) at the [Laboratory of Computational and Translational Neuroscience](https://lopour.eng.uci.edu/). My current research focuses on using computational techniques to study information processing in the human brain and neurological disorders such as epilepsy. Specifically, I am working on **time-frequency machine learning methods** to more precisely **delineate brain regions generating seizure activity**. I have also worked with [Dr. William La Cava](https://cavalab.org/) during an internship at the [Computational Health Informatics Program, Boston Children's Hospital, Harvard Medical School](https://www.chip.org/), where we analyzed **implicit bias in emergency department triage scoring**.
+I am a Biomedical Engineering Ph.D. candidate at the [University of California, Irvine](https://engineering.uci.edu/dept/bme), with a strong interest in applying data-driven and digital solutions to real-world clinical challenges. 
+I currently work under the guidance of [Dr. Beth Lopour](https://engineering.uci.edu/users/beth-lopour) at the [Laboratory of Computational and Translational Neuroscience](https://lopour.eng.uci.edu/), where my research focuses on using computational and machine learning techniques on brain signals to better understand **infantile epilepsy**.
+I have also worked with [Dr. William La Cava](https://cavalab.org/) during an internship at the [Computational Health Informatics Program, Boston Children's Hospital, Harvard Medical School](https://www.chip.org/), where we analyzed **implicit bias in emergency department triage scoring**, reinforcing my interest in improving healthcare delivery through data and technology. 
 
 ## 🎓 EDUCATION
 
